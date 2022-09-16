@@ -9,13 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@heroicons/react": "^1.0.5",
+    "@heroicons/react": "^2.0.11",
     "mdx-bundler": "^9.0.1",
-    "next": "^12.2.4",
+    "next": "^12.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "rehype-prism-plus": "^1.4.2",
-    "simple-git": "^3.12.0"
+    "simple-git": "^3.14.0"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.4",
@@ -25,7 +25,7 @@
     "autoprefixer": "^10.4.8",
     "esbuild": "^0.14.53",
     "eslint": "8.23.0",
-    "eslint-config-next": "^12.2.4",
+    "eslint-config-next": "^12.3.0",
     "postcss": "^8.4.16",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",
